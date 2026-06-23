@@ -10,7 +10,7 @@ O **EcoCognição** é um ecossistema de suporte cognitivo e de saúde mental pr
 O sistema separa a **lógica conceitual e científica** da **geração de texto**:
 1. **NetworkX (Camada de Grafo):** Atua como o "Cérebro Clínico/Pedagógico", mapeando o estado do usuário e ditando diretrizes científicas rígidas e protocolos éticos.
 2. **Marcadores Sociais:** Camada que contextualiza o indivíduo através de recortes interseccionais (idade, identidade de gênero, etnia) para calibração de empatia sem estereótipos.
-3. **Google Gemini (LLM):** Atua estritamente como a "Voz Humana", construindo respostas fluidas e dinâmicas, mas sempre guiada pelas regras injetadas pelo Grafo.
+3. **Google Gemini (LLM):** Atua estritamente como a "Voz Humana", construindo respostas fluidas e dinâmicas, mas sempre guiada pelas regras injetadas pelo Grafo. 
 
 ---
 
